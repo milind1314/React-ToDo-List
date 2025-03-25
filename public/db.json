@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david11",
+      "password": "david234",
+      "email": "david@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Friends Birthday",
+      "date": "2025-03-23",
+      "userid": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Submit project documents",
+      "date": "2025-03-13",
+      "userid": "david11"
+    }
+  ]
+}

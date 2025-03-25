@@ -1,0 +1,5 @@
+.bg-image{
+    height: 600px;
+    background-image: url("/public/todo-banner.jpg");
+    background-size: cover;
+}
